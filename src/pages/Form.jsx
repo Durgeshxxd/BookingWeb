@@ -4,7 +4,7 @@ import FormfacadeEmbed from "@formfacade/embed-react";
 const Form = () => {
   return (
     <div className='form'>
-      <FormfacadeEmbed
+     <FormfacadeEmbed
 
 formFacadeURL="https://formfacade.com/include/101846045884088824846/form/1FAIpQLSdtzL9w4GS76c4rGQUwIDob5T1VAxIHzyRbTNi9f2GWPk6hOw/classic.js/?div=ff-compose"
 
